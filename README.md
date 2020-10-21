@@ -1,13 +1,44 @@
-### Hi there 👋
-✨My name is Muhammad Sulthan Mazaya. I'm currently a student at Institut Teknologi Bandung.
-I'm currently learning UI mobile app designing and front end developing using flutter.
-I'm super interested in the domain of mobile app and web development. I also interested
-more about machine learning and deep learning, but haven't started to learn. My plan is
-to start learning tensorflow right after i feel i'm good enough at Flutter. I'm still
-struggling at a lot of details, i still need a guidance.✨
-
-📫You can reach me at:
-www.linkedin.com/in/muhammad-sulthan-mazaya-7289091b3/
+Welcome to...
 
 <!--
-**MazayaCode/MazayaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jesslyn1999/jesslyn1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+# Mazaya Code Diary <img width="45" src="https://github.com/MazayaCode/RegistertoDSC">
+
+feel free to explore it
+
+### My Skills
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-347AB4?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Matlab" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Raspberry" src="https://img.shields.io/badge/-Android-AAC148?style=flat-square&logo=android&logoColor=white" />
+  <img alt="Computervision" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</p>
+
+
+### Gihub Stats
+<p><img src="https://github-readme-stats.vercel.app/api?username=MazayaCode&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
+
+### Top Languages
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazayaCode&amp;layout=compact" alt="Top Languages"></p>
+
+---
+
+Reach me at: https://www.linkedin.com/in/muhammad-sulthan-mazaya-7289091b3/
+
+
