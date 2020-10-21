@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Mazaya Code Diary <img width="45" src="https://github.com/MazayaCode/RegistertoDSC">
+# Mazaya Code Diary 
 
 feel free to explore it
 
