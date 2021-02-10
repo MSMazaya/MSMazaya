@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 feel free to explore it
 
 ### Gihub Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=MazayaCode&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=MSMazaya&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
 ### Top Languages
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazayaCode&amp;layout=compact" alt="Top Languages"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSMazayae&amp;layout=compact" alt="Top Languages"></p>
 
 ---
 
