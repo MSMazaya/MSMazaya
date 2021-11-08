@@ -2,7 +2,7 @@
   Welcome to Muhammad Sulthan Mazaya's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An%20Engineering%20Physics%20Student;At%20Institut%20Teknologi%20Bandung;%20Also%20A%20Sotware%20Engineer%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An%20Engineering%20Physics%20Student;At%20Institut%20Teknologi%20Bandung;%20Also%20A%20Software%20Engineer%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 </h3>
 
