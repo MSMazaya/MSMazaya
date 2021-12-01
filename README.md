@@ -54,6 +54,9 @@
     <a href="#"><img alt="Vue" src="https://custom-icon-badges.herokuapp.com/badge/Vue-25A162.svg?logo=vue&logoColor=white"></a>
     <a href="#"><img alt="Nuxt" src="https://custom-icon-badges.herokuapp.com/badge/Nuxt-25A162.svg?logo=nuxt&logoColor=white"></a>
     <a href="#"><img alt="Fast API" src="https://img.shields.io/badge/FastAPI-0A9EDC.svg?logo=fastapi&logoColor=white"></a>
+    <a href="#"><img alt="Apollo" src="https://img.shields.io/badge/Apollo-02569B.svg?logo=apollo&logoColor=white"></a>
+    <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-2671E5.svg?logo=graphql%20actions&logoColor=white"></a>
+    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-C21325.svg?logo=nginx&logoColor=white"></a>
 </p>
 
 ## Gihub Stats
