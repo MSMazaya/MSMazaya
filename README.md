@@ -57,6 +57,7 @@
     <a href="#"><img alt="Apollo" src="https://img.shields.io/badge/Apollo-02569B.svg?logo=apollo&logoColor=white"></a>
     <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-2671E5.svg?logo=graphql%20actions&logoColor=white"></a>
     <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-C21325.svg?logo=nginx&logoColor=white"></a>
+    <a href="#"><img alt="Hasura" src="https://img.shields.io/badge/Hasura-22232a.svg?logo=hasura&logoColor=%2361DAFB"></a>
 </p>
 
 ## Gihub Stats
