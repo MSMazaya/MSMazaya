@@ -50,6 +50,10 @@
     <a href="#"><img alt="Web Actix" src="https://img.shields.io/badge/Web%20Actix-0081CB.svg?logo=web-actix&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/Strapi-00979D?logo=strapi&logoColor=white"></a>
+    <a href="#"><img alt="Vue" src="https://custom-icon-badges.herokuapp.com/badge/Vue-25A162.svg?logo=vue&logoColor=white"></a>
+    <a href="#"><img alt="Nuxt" src="https://custom-icon-badges.herokuapp.com/badge/Nuxt-25A162.svg?logo=nuxt&logoColor=white"></a>
+    <a href="#"><img alt="Fast API" src="https://img.shields.io/badge/FastAPI-0A9EDC.svg?logo=fastapi&logoColor=white"></a>
 </p>
 
 ## Gihub Stats
