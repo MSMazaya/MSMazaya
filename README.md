@@ -20,7 +20,7 @@ I am a:
   - [TransitSpot](https://github.com/TransitSpot/App): Mobile app for public transport needs
   - [OpenSearch](https://github.com/GarudaHacksMafiaTeam/OpenSearch): Social media for open source enthusiasts
   - [InVey](https://github.com/findit-omae-wa-mou-shindeiru/Invey): Online monetized survey platform
-- School projects that I love:
+- College projects that I love:
   - [End to End Robotics Project](https://github.com/MSMazaya/Tubes-LTF2): A full implementation of an automated light seeking PV robot that could also be controller via mobile device
 - Personal repos that I love:
   - [Tools](https://github.com/MSMazaya/tools): Some tools i developed for myself that help my development or daily activies
