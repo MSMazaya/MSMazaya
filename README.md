@@ -1,7 +1,7 @@
 ### Muhammad Sulthan Mazaya
 
 I am a:
-- Software Engineer Intern @ [GDP Labs](https://www.linkedin.com/company/gdp-labs?originalSubdomain=id)
+- Ex-Software Engineer Intern @ [GDP Labs](https://www.linkedin.com/company/gdp-labs?originalSubdomain=id)
 - Engineering Physics Student @ [Institut Teknologi Bandung](https://www.itb.ac.id/)
 - Fullstack web/mobile developer on daily basis, but also hardware, IoT, and robotics enjoyer
 - 🦀 Rustacean!
