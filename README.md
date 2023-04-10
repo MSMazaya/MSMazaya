@@ -12,6 +12,7 @@ I am a:
 #### Contact Information:
 - Email: `msulthanmazaya <at> gmail.com`
 - [LinkedIn](https://www.linkedin.com/in/muhammad-sulthan-mazaya-7289091b3/): `Muhammad Sulthan Mazaya`
+- [Personal Website](https://mazaya.id): `mazaya.id`  
 
 #### Projects:
 
