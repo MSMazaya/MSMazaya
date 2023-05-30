@@ -22,7 +22,7 @@ I am a:
 - Ex [ITB Wecome](https://github.com/kabinetkmitb/wecome) Developer
 - Ex Head of [Skullers Insight](https://github.com/Skullers-Insight) IT Developer
 - Developed some hackathons project:
-  - [TransitSpot](https://github.com/TransitSpot/App): Mobile app for public transport needs
+  - [TransitSpot](https://github.com/omaewa-mo-shinderu-APEC/TransitSpot): Mobile app for public transport needs
   - [OpenSearch](https://github.com/GarudaHacksMafiaTeam/OpenSearch): Social media for open source enthusiasts
   - [InVey](https://github.com/findit-omae-wa-mou-shindeiru/Invey): Online monetized survey platform
 - College projects that I love:
