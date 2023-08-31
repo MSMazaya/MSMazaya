@@ -1,8 +1,8 @@
 ### Muhammad Sulthan Mazaya
 
 I am a:
-- High Performance Computing Summer Researcher @ [Australian National University](https://www.anu.edu.au/)
-- Google Summer of Code Contributor @ [RTEMS](https://www.rtems.org/)
+- Ex-High Performance Computing Summer Researcher @ [Australian National University](https://www.anu.edu.au/)
+- Ex-Google Summer of Code Contributor @ [RTEMS](https://www.rtems.org/)
 - Ex-Software Engineer Intern @ [Tokopedia](https://www.linkedin.com/company/pt--tokopedia)
 - Ex-Product Engineer Intern @ [Payable](https://www.linkedin.com/company/payableid/)
 - Ex-Software Engineer Intern @ [GDP Labs](https://www.linkedin.com/company/gdp-labs?originalSubdomain=id)
