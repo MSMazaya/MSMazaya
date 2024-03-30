@@ -7,7 +7,7 @@ I am a:
 - Ex-Product Engineer Intern @ [Payable](https://www.linkedin.com/company/payableid/)
 - Ex-Software Engineer Intern @ [GDP Labs](https://www.linkedin.com/company/gdp-labs?originalSubdomain=id)
 - Engineering Physics Student @ [Institut Teknologi Bandung](https://www.itb.ac.id/)
-- Upcoming Master of Software Engineer in Embedded Systems @ [Carnegie Mellon University](https://www.cmu.edu/)
+- Upcoming Master of Software Engineering – Embedded Systems @ [Carnegie Mellon University](https://www.cmu.edu/)
 - Fullstack web/mobile developer on daily basis, but also hardware, IoT, and robotics enjoyer
 - 🦀 Rustacean!
 - Neovim user btw
