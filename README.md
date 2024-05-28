@@ -1,8 +1,6 @@
-### Muhammad Sulthan Mazaya
-
 Hi! 
 
-My name is Mazaya, and I love to code! I am an engineering physics student at Bandung Institute of Technology and will soon be pursuing my master of software engineering - embedded systems at Carnegie Mellon University. I have several "working" experiences as mentioned below:
+My name is Mazaya, I am an engineering physics student at Bandung Institute of Technology and will soon be pursuing my master of software engineering - embedded systems at Carnegie Mellon University. I have several "working" experiences as mentioned below:
 - High Performance Computing Summer Researcher @ [Australian National University](https://www.anu.edu.au/)
 - Google Summer of Code Contributor @ [RTEMS](https://www.rtems.org/)
 - Software Engineer Intern @ [Tokopedia](https://www.linkedin.com/company/pt--tokopedia)
