@@ -10,7 +10,7 @@ My name is Mazaya, I am an engineering physics student at Bandung Institute of T
 Fun facts about me:
 - I used to do a lot of web and mobile application development, extensively.
 - I was a robotics club member at my university, I was first introduced to utility AI and reinforcement learning there from my senior.
-- I became a research assistant in the IC Design lab in my bachelor university in my last year, I researched custom RISC-V instruction for reinforcement learning accelerator.
+- I became a research assistant in the IC Design lab in my bachelor's university in my last year, I researched custom RISC-V instruction for reinforcement learning accelerator.
 - I did a bunch of hackathons, and won 4 of them, those were mostly about web and mobile application development.
 - I pretty much self-taught myself about software in my bachelor's degree journey (and I am proud of that!). Though, I must say that several courses from the Engineering Physics department do give me opportunities to tinker around more with software.
 - I love physics, though I am not great at it! I enjoyed learning about it and found a lot of fascination with it.
