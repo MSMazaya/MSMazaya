@@ -1,7 +1,9 @@
 Hi! 
 
 My name is Mazaya, I am an engineering physics student at Bandung Institute of Technology and will soon be pursuing my master of software engineering - embedded systems at Carnegie Mellon University. I have several "working" experiences as follows:
-- High Performance Computing Summer Researcher @ [Australian National University](https://www.anu.edu.au/)
+
+- Research Assistant (Computer architecture and FPGA) @ [Microelectronics Center of Institut Teknologi Bandung](https://www.linkedin.com/company/pmeitb)
+- Research Intern (HPC and numerical optimization) @ [Australian National University](https://www.anu.edu.au/)
 - Google Summer of Code Contributor @ [RTEMS](https://www.rtems.org/)
 - Software Engineer Intern @ [Tokopedia](https://www.linkedin.com/company/pt--tokopedia)
 - Product Engineer Intern @ [Payable](https://www.linkedin.com/company/payableid/)
