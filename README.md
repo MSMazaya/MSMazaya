@@ -21,5 +21,3 @@ Fun facts about me:
 #### Contact Information:
 - Email: `msulthanmazaya <at> gmail.com`
 - [LinkedIn](https://www.linkedin.com/in/muhammad-sulthan-mazaya-7289091b3/): `Muhammad Sulthan Mazaya`
-
-[Oh, hi there!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
