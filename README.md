@@ -12,9 +12,9 @@ Fun facts about me:
 - I was a robotics club member at my university, I was first introduced to utility AI and reinforcement learning there from my senior.
 - I became a research assistant in the IC Design lab in my bachelor's university in my last year, I researched custom RISC-V instruction for reinforcement learning accelerator.
 - I did a bunch of hackathons, and won 4 of them, those were mostly about web and mobile application development.
-- I pretty much self-taught myself about software in my bachelor's degree journey (and I am proud of that!). Though, I must say that several courses from the Engineering Physics department do give me opportunities to tinker around more with software.
+- I pretty much self-taught myself about software in my bachelor's degree journey (and I am **very** proud of that!). Though, I must say that several courses from the Engineering Physics department do give me opportunities to tinker around more with software.
 - I love physics, though I am not great at it! I enjoyed learning about it and found a lot of fascination with it.
-- As for now, my main learning goal is to understand more about operating systems and computer networks. In the future, I am hoping that I could also learn more about control systems and quantum computing.
+- I am interested in projects or works related to computer architecture, operating systems, and computer networks.
 
 #### Contact Information:
 - Email: `msulthanmazaya <at> gmail.com`
