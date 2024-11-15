@@ -1,6 +1,6 @@
 Hi! 
 
-My name is Mazaya, I am an engineering physics student at Bandung Institute of Technology and will soon be pursuing my master of software engineering - embedded systems at Carnegie Mellon University. I have several "working" experiences as follows:
+My name is Mazaya, I am a master of software engineering - embedded systems student at Carnegie Mellon University. I have several "working" experiences as follows:
 
 - Research Assistant (Computer architecture and FPGA) @ [Microelectronics Center of Institut Teknologi Bandung](https://www.linkedin.com/company/pmeitb)
 - Research Intern (HPC and numerical optimization) @ [Australian National University](https://www.anu.edu.au/)
@@ -16,7 +16,7 @@ Fun facts about me:
 - I did a bunch of hackathons, and won 4 of them, those were mostly about web and mobile application development.
 - I pretty much self-taught myself about software in my bachelor's degree journey (and I am **very** proud of that!). Though, I must say that several courses from the Engineering Physics department do give me opportunities to tinker around more with software.
 - I love physics, though I am not great at it! I enjoyed learning about it and found a lot of fascination with it.
-- I am interested in projects or works related to computer architecture, operating systems, and computer networks.
+- I am interested in projects or works related to configurable hardware, computer architecture, and virtual machines.
 
 #### Contact Information:
 - Email: `msulthanmazaya <at> gmail.com`
