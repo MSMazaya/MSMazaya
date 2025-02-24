@@ -8,5 +8,5 @@ I have several projects I am proud of:
 3. More to come!
 
 #### Contact Information:
-- Email: `msulthanmazaya <at> gmail.com`
+- Email: `mmazaya <at> andrew.cmu.edu`
 - [LinkedIn](https://www.linkedin.com/in/muhammad-sulthan-mazaya-7289091b3/): `Muhammad Sulthan Mazaya`
