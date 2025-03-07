@@ -1,6 +1,6 @@
 Hi! 
 
-My name is Mazaya, I am a Master of Software Engineering in Embedded Systems student at Carnegie Mellon University. I have a lot of interest in compilers, computer architecture, and embedded systems. I have several experiences: 3 SDE internships and 2 research internships on computer architecture and HPC. I will soon be doing my internship at Qualcomm's Wireless Research and Development team.
+I am a Master of Software Engineering in Embedded Systems student at Carnegie Mellon University. I have a lot of interest in compilers, computer architecture, and embedded systems. I have several experiences: 3 SDE internships and 2 research internships on computer architecture and HPC. I will soon be doing my internship at Qualcomm's Wireless Research and Development team.
 
 I have several projects I am proud of:
 1. C0 compiler: an x86 compiler for C0 - subset of C. Written in Rust and supports control flow, function calls, and dynamic memory accesses. All of those feature is implemented to adhere the System V ABI. It's an ongoing project that should be finished before summer 2025.
