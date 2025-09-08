@@ -1,6 +1,8 @@
 Hi! 
 
-I am a Master of Software Engineering in Embedded Systems student at Carnegie Mellon University. I have a lot of interest in compilers, computer architecture, and embedded systems. I have several experiences: 3 SDE internships and 2 research internships on computer architecture and HPC. I am most proud of 1) my undergrad thesis work on hardware accelerator and its extension in multiple RISC-V cores 2) my compiler coursework on building an aggressively optimized x86 c0 —subset of C— compiler from scratch using Rust that is 66% as fast as `gcc -O1`.
+I am a Master of Software Engineering – Embedded Systems student at Carnegie Mellon University. My interests include compilers, computer architecture, and embedded systems. I have completed three software engineering internships and two research internships focused on computer architecture and high-performance computing.
+
+Feel free to reach out if you find anything interesting here!
 
 #### Contact Information:
 - Email: `mmazaya <at> andrew.cmu.edu`
