@@ -1,6 +1,6 @@
 Hi! 
 
-I am a Master of Software Engineering – Embedded Systems student at Carnegie Mellon University. My interests include compilers, computer architecture, and embedded systems. I have completed three software engineering internships and two research internships focused on computer architecture and high-performance computing.
+I am a Master of Software Engineering – Embedded Systems student at Carnegie Mellon University. I write compilers, firmware, and HDLs.
 
 Feel free to reach out if you find anything interesting here!
 
