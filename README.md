@@ -1,6 +1,6 @@
 Hi! 
 
-I am a Master of Software Engineering – Embedded Systems student at Carnegie Mellon University.
+I code compilers, runtime systems, and device drivers.
 
 Feel free to reach out if you find anything interesting here!
 
